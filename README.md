@@ -5,6 +5,12 @@
 
 ---
 
+## **Presentation** 📽️
+
+* [Canva Presentation Link](https://www.canva.com/design/DAGeC0mo_Ys/U_E-Bp7JnTml4pxRkTmq4w/view?utm_content=DAGeC0mo_Ys&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha6cdc818c4)
+
+---
+
 ## 1. **Project Goal and Background** ⚽
 
 ### 🚀 **Background**
@@ -27,7 +33,7 @@
 
 ### ✅ **Requirements**
 
-* Python 3.x
+* Python 3.11
 * Pandas, Numpy, Matplotlib, Scikit-learn
 * LightGBM, XGBoost, CatBoost
 * Streamlit, Folium
@@ -90,16 +96,11 @@
 ## 4. **Demo(GiF)** 📹
 
 * Streamlit 웹 애플리케이션 실행 화면
+<video controls src="1234.mp4" title="Title"></video>
 
 ---
 
-## 5. **Presentation** 📽️
-
-* [Canva Presentation Link](https://www.canva.com/design/DAGeC0mo_Ys/U_E-Bp7JnTml4pxRkTmq4w/view?utm_content=DAGeC0mo_Ys&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha6cdc818c4)
-
----
-
-## 6. **References** 📋
+## 5. **References** 📋
 
 * [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)
 * [CatBoost Documentation](https://catboost.ai/en/docs/)
@@ -139,7 +140,7 @@ app.py : Streamlit으로 웹 애플리케이션화
   * 실시간 흥행 예측 기능 추가
 
 
-## 7.Participants & Supports 🧑‍🤝‍🧑
+## 6. Participants & Supports 🧑‍🤝‍🧑
 - 김형후
   -  [GitHub 🐈‍⬛](https://github.com/Shaerrr)
   - E-mail📧: kimjinsyll@gmail.com
