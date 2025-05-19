@@ -101,10 +101,10 @@ app.py : Streamlit으로 웹 애플리케이션 구현
 
 ---
 
-## 4. **Demo(GiF)** 📹
+## 4. **Demo** 📹
 
 * Streamlit 웹 애플리케이션 실행 화면
-🎥 [Click to watch the video](https://raw.githubusercontent.com/your-username/your-repo/main/1234.mp4)
+🎥 [Click to watch the video](https://raw.githubusercontent.com/Shaerrr/-K-Webtoon-Popularity-Prediction-with-Machine-Learnin/main/1234.mp4)
 ---
 
 ## 5. **References** 📋
