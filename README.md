@@ -95,7 +95,7 @@
 
 ## 5. **Presentation** 📽️
 
-* [Canva Presentation Link](https://www.canva.com)
+* [Canva Presentation Link](https://www.canva.com/design/DAGeC0mo_Ys/U_E-Bp7JnTml4pxRkTmq4w/view?utm_content=DAGeC0mo_Ys&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha6cdc818c4)
 
 ---
 
