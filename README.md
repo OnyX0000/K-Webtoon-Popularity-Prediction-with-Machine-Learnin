@@ -104,7 +104,9 @@ app.py : Streamlit으로 웹 애플리케이션 구현
 ## 4. **Demo(GiF)** 📹
 
 * Streamlit 웹 애플리케이션 실행 화면
-<video controls src="1234.mp4" title="Title"></video>
+<video width="600" controls>
+  <source src="https://raw.githubusercontent.com/your-username/your-repo/main/1234.mp4" type="video/mp4">
+</video>
 
 ---
 
