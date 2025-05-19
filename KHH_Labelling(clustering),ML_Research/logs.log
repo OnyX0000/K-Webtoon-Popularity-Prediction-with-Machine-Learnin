@@ -1,0 +1,117 @@
+2025-01-21 13:43:38,729:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-01-21 13:43:38,729:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-01-21 13:43:38,730:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-01-21 13:43:38,730:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-01-22 12:08:58,009:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\3010091300.py:1: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  df_concated[df_concated['회차']>10 ][df_concated['회차']<20 ]
+
+2025-01-22 12:09:17,412:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\3010091300.py:1: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  df_concated[df_concated['회차']>10 ][df_concated['회차']<20 ]
+
+2025-01-22 12:09:22,748:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\3558862582.py:1: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  df_concated[df_concated['회차']>10][df_concated['회차']<20 ]
+
+2025-01-22 12:09:54,170:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\1422980605.py:1: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  b[df_concated['회차']<20 ]
+
+2025-01-22 12:16:17,437:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\1393785656.py:4: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  group_counts = df_concated.groupby('회차그룹').size()
+
+2025-01-22 12:16:49,607:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\18379431.py:4: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  group_counts = df_concated.groupby('회차그룹').size()
+
+2025-01-22 12:16:58,024:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\2237993038.py:4: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  group_counts = df_concated.groupby('회차그룹').size()
+
+2025-01-22 12:17:22,800:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\992000537.py:4: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  group_counts = df_concated.groupby('회차그룹').size()
+
+2025-01-22 15:49:12,631:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\927277607.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_preprocessed_2['정답 라벨링']=kmeans.labels_
+
+2025-01-22 16:08:32,707:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\3713840218.py:27: UserWarning: You passed a edgecolor/edgecolors ('k') for an unfilled marker ('x').  Matplotlib is ignoring the edgecolor in favor of the facecolor.  This behavior may change in the future.
+  plt.scatter(cluster_data[:, 0], cluster_data[:, 1], c=[color], label=label_name, s=50, edgecolors='k', marker=marker)
+
+2025-01-22 16:18:33,398:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\992000537.py:4: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  group_counts = df_concated.groupby('회차그룹').size()
+
+2025-01-22 16:19:57,612:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\927277607.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_preprocessed_2['정답 라벨링']=kmeans.labels_
+
+2025-01-22 16:57:13,460:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\992000537.py:4: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  group_counts = df_concated.groupby('회차그룹').size()
+
+2025-01-22 16:58:30,225:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\992000537.py:4: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  group_counts = df_concated.groupby('회차그룹').size()
+
+2025-01-22 16:59:10,785:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\992000537.py:4: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  group_counts = df_concated.groupby('회차그룹').size()
+
+2025-01-22 17:05:14,189:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\992000537.py:4: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  group_counts = df_concated.groupby('회차그룹').size()
+
+2025-01-22 17:18:50,486:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\4050110318.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_preprocessed['스케일링 관심수']= sclaed_like*10000
+
+2025-01-22 17:19:03,251:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\4050110318.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_preprocessed['스케일링 관심수']= sclaed_like*10000
+
+2025-01-22 17:19:11,523:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\4050110318.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_preprocessed['스케일링 관심수']= sclaed_like*10000
+
+2025-01-22 17:19:29,830:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\4050110318.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_preprocessed['스케일링 관심수']= sclaed_like*10000
+
+2025-01-22 17:19:32,981:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\992000537.py:4: FutureWarning: The default of observed=False is deprecated and will be changed to True in a future version of pandas. Pass observed=False to retain current behavior or observed=True to adopt the future default and silence this warning.
+  group_counts = df_concated.groupby('회차그룹').size()
+
+2025-01-22 17:41:09,363:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\4050110318.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_preprocessed['스케일링 관심수']= sclaed_like*10000
+
+2025-01-22 17:58:20,606:WARNING:C:\Users\user\AppData\Local\Temp\ipykernel_26088\2754816453.py:6: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df_preprocessed['스케일링 관심수']= sclaed_like*10000
+
+2025-01-24 16:05:41,638:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-01-24 16:05:41,638:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-01-24 16:05:41,638:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-01-24 16:05:41,638:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
