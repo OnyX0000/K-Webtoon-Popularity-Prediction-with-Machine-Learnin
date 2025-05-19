@@ -93,6 +93,14 @@
 
 ---
 
+## 📌 **Project Structure**
+
+```
+app.py : Streamlit으로 웹 애플리케이션 구현
+```
+
+---
+
 ## 4. **Demo(GiF)** 📹
 
 * Streamlit 웹 애플리케이션 실행 화면
@@ -105,14 +113,6 @@
 * [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)
 * [CatBoost Documentation](https://catboost.ai/en/docs/)
 * [LightGBM Documentation](https://lightgbm.readthedocs.io/en/latest/)
-
----
-
-## 📌 **Project Structure**
-
-```
-app.py : Streamlit으로 웹 애플리케이션화
-```
 
 ---
 
